@@ -28,3 +28,9 @@ Os testes A/B são comuns em business e marketing digital, enquanto os RCTs são
 https://www.linkedin.com/pulse/rcts-vs-teste-ab-silvio-da-rosa-paula/
 
 -------------------------------------------                         
+## Avaliação de impacto aplicado a área de negócios.
+Saiba como uma avaliação de impacto pode ser aplicada não só em programas sociais, mas também em estratégias de negócios, para identificar se os resultados correspondem com os objetivos traçados. Descubra os principais componentes necessários para uma identificação causal, como a linha do tempo dos eventos, a avaliação de variáveis de confusão e a observação das mudanças, e os termos-chave utilizados em pesquisas causais, como hipótese, desenho experimental, variável independente, variável dependente e variável de controle.
+
+**Texto publicado no LinkedIn.** 
+[https://www.linkedin.com/pulse/rcts-vs-teste-ab-silvio-da-rosa-paula/](https://www.linkedin.com/pulse/avalia%C3%A7%C3%A3o-de-impacto-aplicado-%C3%A1rea-neg%C3%B3cios-silvio-da-rosa-paula/)
+
