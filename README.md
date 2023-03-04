@@ -32,5 +32,14 @@ https://www.linkedin.com/pulse/rcts-vs-teste-ab-silvio-da-rosa-paula/
 Saiba como uma avaliação de impacto pode ser aplicada não só em programas sociais, mas também em estratégias de negócios, para identificar se os resultados correspondem com os objetivos traçados. Descubra os principais componentes necessários para uma identificação causal, como a linha do tempo dos eventos, a avaliação de variáveis de confusão e a observação das mudanças, e os termos-chave utilizados em pesquisas causais, como hipótese, desenho experimental, variável independente, variável dependente e variável de controle.
 
 **Texto publicado no LinkedIn.** 
-[https://www.linkedin.com/pulse/rcts-vs-teste-ab-silvio-da-rosa-paula/](https://www.linkedin.com/pulse/avalia%C3%A7%C3%A3o-de-impacto-aplicado-%C3%A1rea-neg%C3%B3cios-silvio-da-rosa-paula/)
+https://www.linkedin.com/pulse/avalia%C3%A7%C3%A3o-de-impacto-aplicado-%C3%A1rea-neg%C3%B3cios-silvio-da-rosa-paula/
 
+-------------------------------------------              
+## Paradoxo de Simpson's
+
+Em um post em um blog de análise de dados, é levantada a questão sobre a possibilidade de grande parte dos trabalhos aplicados atuais estarem incorretos. É destacado o Paradoxo de Simpson, que ocorre quando certas estruturas levam a resultados enganosos em análises estatísticas. Além disso, é enfatizado que a decisão sobre quais variáveis incluir em um conjunto de controle é impossível sem considerar a estrutura subjacente dos dados. Um exemplo é dado via simulação em que duas variáveis não observadas podem levar a estimativas enviesadas devido à falta de conhecimento sobre a natureza subjacente dos dados.
+
+**Texto publicado no LinkedIn.** 
+https://www.linkedin.com/pulse/paradoxo-de-simpson-silvio-da-rosa-paula-1e/
+
+-------------------------------------------                
